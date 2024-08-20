@@ -10,7 +10,7 @@ import axios from "axios";
 const Container = styled.div`
   width: 100%;
   max-width: 800px;
-  margin-top: 20px;
+  margin-top: 22px;
   display: flex;
   flex-direction: column;
   align-items: center;
